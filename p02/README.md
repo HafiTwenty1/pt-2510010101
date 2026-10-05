@@ -124,4 +124,3 @@ Nilai         : 85
 Lulus         : true
 ```
 
-> Catatan: karena kode asli `SiNilai v0.1` dan format output yang diwajibkan dosen/guru tidak diberikan pada percakapan ini, berkas ini adalah contoh lengkap yang disusun berdasarkan instruksi pada gambar. Jika kamu kirim file `sinilai_v01.cpp` asli, kode ini bisa disesuaikan persis dengan programmu.
