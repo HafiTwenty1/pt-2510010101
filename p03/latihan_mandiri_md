@@ -1,0 +1,11 @@
+1. **Konversi jumlah detik**
+   Program membaca jumlah detik dalam bentuk bilangan bulat, kemudian mengubahnya menjadi jam, menit, dan detik. Untuk mendapatkan jam digunakan pembagian `// 3600`, sedangkan sisa detik digunakan untuk menghitung menit dan detik dengan operator `%` dan `// 60`.
+
+2. **Menghitung hasil bagi dan sisa**
+   Program membaca dua bilangan bulat, kemudian menghitung hasil pembagian dan sisa pembagiannya. Operator `//` digunakan untuk mendapatkan hasil bagi, sedangkan operator `%` digunakan untuk mendapatkan sisa. Contohnya, `17 // 5` menghasilkan `3` dan `17 % 5` menghasilkan `2`.
+
+3. **Mengubah program SiNilai v0.2**
+   Program SiNilai v0.2 diubah agar dapat menampilkan selisih antara nilai akhir dan rerata polos. Selisih dihitung dengan rumus `nilai akhir - rerata`. Jika hasil selisihnya `0`, berarti nilai akhir dan rerata memiliki nilai yang sama persis.
+
+4. **Membandingkan C++ dengan Python**
+   Tiga ekspresi dari file `prioritas.cpp` diterjemahkan ke dalam Python, kemudian kedua program dijalankan dan hasilnya dibandingkan. Jika terdapat hasil yang berbeda, perbedaan tersebut dicatat dan dijelaskan penyebabnya, misalnya karena perbedaan aturan operator, pembagian, atau tipe data pada C++ dan Python.
