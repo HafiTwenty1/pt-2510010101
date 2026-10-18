@@ -1,4 +1,4 @@
-soal Latihan Mandiri:
+
 
 rerata.cpp (Modifikasi ke 5 nilai)
 Bagian yang diubah: Deklarasi variabel (menambah 2 variabel), perintah input cin (membaca 5 nilai), dan rumus rata-rata (menjumlahkan 5 nilai lalu dibagi 5.0).
